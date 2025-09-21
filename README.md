@@ -8,16 +8,24 @@ Dashboard --> <a href="https://github.com/dilliprasathB/Road-Accident-2021-vs-20
 
 ## Key Highlights
 ### 1) Yearly & Monthly Accident Trends
-    Shows how accidents vary across different years and months.
+Shows how accidents vary across different years and months.
 
 ### 2)Severity Analysis 
-     Breaks down accidents into Fatal, Serious, and Slight categories for better understanding.
+Breaks down accidents into Fatal, Serious, and Slight categories for better understanding.
 
 ### 3)Location Insights 
-    Identifies accident hotspots and regions with higher accident frequency.
+Identifies accident hotspots and regions with higher accident frequency.
 
 ### 4)Comparative Analysis 
-    Compares accidents across multiple years to highlight improvements or worsening trends.
+Compares accidents across multiple years to highlight improvements or worsening trends.
 
 ### 5)Interactive Dashboard 
-    Users can apply filters, select time periods, and drill down into specific accident details.
+Users can apply filters, select time periods, and drill down into specific accident details.
+## Tools & Technologies
+Power BI Desktop
+Data Cleaning (Power Query)
+DAX for Measures & Calculations
+## How to Use
+Clone/download this repository.
+Open Road Accident.pbix in Power BI Desktop.
+Interact with the dashboard using filters and visuals.
