@@ -6,7 +6,7 @@ Data Set --> <a href="https://github.com/dilliprasathB/Road-Accident-2021-vs-202
 
 Dashboard --> <a href="https://github.com/dilliprasathB/Road-Accident-2021-vs-2022-using-power-BI/blob/main/Road%20Accident.pbix">Road Accident Dashboard</a?
 
-Read me --><a hred="https://github.com/dilliprasathB/Road-Accident-2021-vs-2022-using-power-BI/blob/main/README.md"> README</a>
+
 
 ## Key Highlights
 ### 1) Yearly & Monthly Accident Trends
