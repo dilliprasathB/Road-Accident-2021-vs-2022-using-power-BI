@@ -23,9 +23,13 @@ Compares accidents across multiple years to highlight improvements or worsening 
 Users can apply filters, select time periods, and drill down into specific accident details.
 ## Tools & Technologies
 Power BI Desktop
+
 Data Cleaning (Power Query)
+
 DAX for Measures & Calculations
 ## How to Use
 Clone/download this repository.
+
 Open Road Accident.pbix in Power BI Desktop.
+
 Interact with the dashboard using filters and visuals.
